@@ -1,0 +1,6 @@
+*pyc
+/build/*
+/dist/*
+/switchboard.egg-info/*
+/setup.cfg
+
